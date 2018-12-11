@@ -1,0 +1,11 @@
+Antenas(largas) Alas(rigidas) es(diu/no)=>Escarabajo
+Antenas(largas) Alas(escamas) es(diu/no)=>Mariposas
+Antenas(largas) Alas(aristada) es(diu/no)=> Mosca 
+Antenas(largas) Alas(estilada) es(diu/no)=>Mosca
+Antenas(cortas) Alas(aristada) es(diu/no)=> Mosca 
+Antenas(cortas) Alas(estilada) es(diu/no)=>Mosca
+Antenas(cortas) Alas(escamas) es(nocturna)=> Polilla
+Antenas(largas) Alas(plumosas) es(diurna)=> Mariposa
+Antenas(largas) Alas(ninguna) es(diu/no)=>Hormiga
+Antenas(escapo) Alas(hervaduras) es(diurna)=> Abeja
+Antenas(largas) Alas(hervaduras) es(diurna)=> Avispa
